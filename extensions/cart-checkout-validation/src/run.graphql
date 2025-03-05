@@ -1,0 +1,8 @@
+query RunInput($initialHour: TimeWithoutTimezone!, $finalHour: TimeWithoutTimezone!) {
+  shop {
+    localTime {
+      timeBetween(startTime: $initialHour, endTime: $finalHour)
+    }
+  }
+}
+
