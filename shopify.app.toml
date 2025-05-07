@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "51b495d577b9742788d92d17881a7017"
-application_url = "https://pretty-fwd-bikes-temporarily.trycloudflare.com"
+application_url = "https://consolidated-coupon-corruption-sizes.trycloudflare.com"
 embedded = true
 name = "closed-hours-app-v2"
 handle = "closed-hours-app-v2"
@@ -27,9 +27,9 @@ scopes = "write_products, read_validations"
 
 [auth]
 redirect_urls = [
-  "https://pretty-fwd-bikes-temporarily.trycloudflare.com/auth/callback",
-  "https://pretty-fwd-bikes-temporarily.trycloudflare.com/auth/shopify/callback",
-  "https://pretty-fwd-bikes-temporarily.trycloudflare.com/api/auth/callback"
+  "https://consolidated-coupon-corruption-sizes.trycloudflare.com/auth/callback",
+  "https://consolidated-coupon-corruption-sizes.trycloudflare.com/auth/shopify/callback",
+  "https://consolidated-coupon-corruption-sizes.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
